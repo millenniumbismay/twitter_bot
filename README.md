@@ -20,6 +20,8 @@ import tweepy in python console
 
 Go to tweepy documentations and then find the adjacent attributes as used.
 
+last_seen_id.txt stores the id of the tweet that was last stored in order to make the check from the last encounter.
+
 This is a simple bot. I will be working on it for some time to upgrade it.
 
 Thank you.
