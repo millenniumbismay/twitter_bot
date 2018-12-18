@@ -12,10 +12,10 @@ print("Hello! This is a bot")
 
 #These can be found on Twitter Developers API account
 
-CONSUMER_KEY='7mxcKkE0q5kLyLExu0RkigrBf'
-CONSUMER_SECRET='yaN7OnL7hcZCq1I93LghsFZaumYlbTfeFftX5yxzCca6iHSwtC'
-ACCESS_KEY='774348230012252160-7zF17Mmob5Y1IfcxyVfBGjiL1ZKRZ6A'
-ACCESS_SECRET='eqg8aUswlY3j3c48bgmDaFlgtT854ogHtrQ1olO50Mq4j'
+CONSUMER_KEY='7mxcKkE0q5kLyLEda0RkigrBf'
+CONSUMER_SECRET='yaN7OnL7hcZCq1I93LghsFZaumYlbTfeFadDWtX5yxzCca6iHSwtC'
+ACCESS_KEY='774348230012252160-7zF17Mmob5Y1IfcxySASDSAVfBGjiL1ZKRZ6A'
+ACCESS_SECRET='eqg8aUswlY3j3c48bgmDaFlgtTdadW1d54ogHtrQ1olO50Mq4j'
 
 auth=tweepy.OAuthHandler(CONSUMER_KEY,CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY,ACCESS_SECRET)
